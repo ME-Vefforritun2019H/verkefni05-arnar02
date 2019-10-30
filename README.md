@@ -1,19 +1,19 @@
 # vfor1Verk05
 
 
-1.      Búið til HTML skjal og gefið því titilinn "Tables"
-2.      Setjið upp table tagg til að búa til töflu
-2.1     Setjið upp thead tagg
-2.1.1   Setjið upp tr tagg til þess að búa til röð
-2.1.1.1 Setjið upp tómt th tagg til þess að búa til dálk sem er heading
-2.1.1.2 Setjið upp th tagg utan um strenginn "Home starter hosting". Inní th taggið á að setja scope sem col
-2.1.1.3 Setjið upp th tagg utan um strenginn "Premium business hosting". Inní th taggið á að setja scope sem col
+#1.      Búið til HTML skjal og gefið því titilinn "Tables"
+#2.      Setjið upp table tagg til að búa til töflu
+#2.1     Setjið upp thead tagg
+#2.1.1   Setjið upp tr tagg til þess að búa til röð
+#2.1.1.1 Setjið upp tómt th tagg til þess að búa til dálk sem er heading
+#2.1.1.2 Setjið upp th tagg utan um strenginn "Home starter hosting". Inní th taggið á að setja scope sem col
+#2.1.1.3 Setjið upp th tagg utan um strenginn "Premium business hosting". Inní th taggið á að setja scope sem col
 
-2.2     Setjið upp tbody tagg
-2.2.1   Setjið upp tr tagg til þess að búa til röð
-2.2.1.1 Setjið upp th tagg utan um strenginn "Disk space". Inní th taggið á að setja scope sem row
-2.2.1.2 Setjið upp td tagg utan um strenginn "250mb"
-2.2.1.3 Setjið upp td tagg utan um strenginn "1gb"
+#2.2     Setjið upp tbody tagg
+#2.2.1   Setjið upp tr tagg til þess að búa til röð
+#2.2.1.1 Setjið upp th tagg utan um strenginn "Disk space". Inní th taggið á að setja scope sem row
+#2.2.1.2 Setjið upp td tagg utan um strenginn "250mb"
+#2.2.1.3 Setjið upp td tagg utan um strenginn "1gb"
 
 2.2.2   Setjið upp tr tagg til þess að búa til röð
 2.2.2.1 Setjið upp th tagg utan um strenginn "Bandwidth". Inní th taggið á að setja scope sem row
